@@ -1,0 +1,14 @@
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\obj\Debug\netcoreapp3.1\Ex.2.Algorithms.csprojAssemblyReference.cache
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\obj\Debug\netcoreapp3.1\Ex.2.Algorithms.AssemblyInfoInputs.cache
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\obj\Debug\netcoreapp3.1\Ex.2.Algorithms.AssemblyInfo.cs
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Ex.2.Algorithms.exe
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Ex.2.Algorithms.deps.json
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Ex.2.Algorithms.runtimeconfig.json
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Ex.2.Algorithms.runtimeconfig.dev.json
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Ex.2.Algorithms.dll
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Ex.2.Algorithms.pdb
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\obj\Debug\netcoreapp3.1\Ex.2.Algorithms.dll
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\obj\Debug\netcoreapp3.1\Ex.2.Algorithms.pdb
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Resources\sort1.txt
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Resources\sort2.txt
+C:\Users\wozni\source\repos\LAB-01\Ex.2.Algorithms\bin\Debug\netcoreapp3.1\Resources\sort3.txt
